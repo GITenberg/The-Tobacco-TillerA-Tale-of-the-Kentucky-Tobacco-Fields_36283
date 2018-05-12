@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38174'
     url: http://www.gutenberg.org/2009/agents/38174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36283#The-Tobacco-TillerA-Tale-of-the-Kentucky-Tobacco-Fields
 gutenberg_issued: '2011-05-30'
 gutenberg_type: Text
 identifiers:
